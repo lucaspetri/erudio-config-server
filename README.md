@@ -1,1 +1,1 @@
-# erudio-config-server
+# micro-java-config-server
